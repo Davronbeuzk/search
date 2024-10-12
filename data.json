@@ -1,0 +1,163 @@
+[
+    {
+        "id": 1,
+        "name": "Davron",
+        "job": "Dasturchi",
+        "email": "d1@gmail.com",
+        "pass": "pass",
+        "image": "image copy.png"
+    },
+    {
+        "id": 2,
+        "name": "Ozodbek",
+        "job": "Dasturchi",
+        "email": "d2@gmail.com",
+        "pass": "pass",
+        "image": "image copy.png"
+    },
+    {
+        "id": 3,
+        "name": "Behruzbek",
+        "job": "Dasturchi",
+        "email": "d3@gmail.com",
+        "pass": "pass",
+        "image": "image copy.png"
+    },
+    {
+        "id": 4,
+        "name": "Farux",
+        "job": "Dasturchi",
+        "email": "d4@gmail.com",
+        "pass": "pass",
+        "image": "image copy.png"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Farux",
+        "job": "Dasturchi",
+        "email": "d4@gmail.com",
+        "pass": "pass",
+        "image": "image copy.png"
+    },
+    {
+        "id": 4,
+        "name": "maftuna",
+        "job": "Dasturchi",
+        "email": "d4@gmail.com",
+        "pass": "pass",
+        "image": "image copy.png"
+    },
+    {
+        "id": 4,
+        "name": "jasmina",
+        "job": "Dasturchi",
+        "email": "d4@gmail.com",
+        "pass": "pass",
+        "image": "image copy.png"
+    },
+    {
+        "id": 4,
+        "name": "aziza",
+        "job": "Dasturchi",
+        "email": "d4@gmail.com",
+        "pass": "pass",
+        "image": "image copy.png"
+    },
+    {
+        "id": 4,
+        "name": "Malika",
+        "job": "Dasturchi",
+        "email": "d4@gmail.com",
+        "pass": "pass",
+        "image": "image copy.png"
+    },
+    {
+        "id": 4,
+        "name": "malik",
+        "job": "Dasturchi",
+        "email": "d4@gmail.com",
+        "pass": "pass",
+        "image": "image copy.png"
+    },
+    {
+        "id": 4,
+        "name": "AZiz",
+        "job": "Dasturchi",
+        "email": "d4@gmail.com",
+        "pass": "pass",
+        "image": "image copy.png"
+    },
+    {
+        "id": 4,
+        "name": "Shoxrux",
+        "job": "Dasturchi",
+        "email": "d4@gmail.com",
+        "pass": "pass",
+        "image": "image copy.png"
+    },
+    {
+        "id": 4,
+        "name": "Bek",
+        "job": "Dasturchi",
+        "email": "d4@gmail.com",
+        "pass": "pass",
+        "image": "image copy.png"
+    },
+    {
+        "id": 4,
+        "name": "Ali",
+        "job": "Dasturchi",
+        "email": "d4@gmail.com",
+        "pass": "pass",
+        "image": "image copy.png"
+    },
+    {
+        "id": 4,
+        "name": "NAjim",
+        "job": "Dasturchi",
+        "email": "d4@gmail.com",
+        "pass": "pass",
+        "image": "image copy.png"
+    },
+    {
+        "id": 4,
+        "name": "Shoyatbek",
+        "job": "Dasturchi",
+        "email": "d4@gmail.com",
+        "pass": "pass",
+        "image": "image copy.png"
+    },
+    {
+        "id": 4,
+        "name": "begzod",
+        "job": "Dasturchi",
+        "email": "d4@gmail.com",
+        "pass": "pass",
+        "image": "image copy.png"
+    },
+    {
+        "id": 4,
+        "name": "jasur",
+        "job": "Dasturchi",
+        "email": "d4@gmail.com",
+        "pass": "pass",
+        "image": "image copy.png"
+    },
+    {
+        "id": 4,
+        "name": "muhammad",
+        "job": "Dasturchi",
+        "email": "d4@gmail.com",
+        "pass": "pass",
+        "image": "image copy.png"
+    },
+    {
+        "id": 4,
+        "name": "Boburjon",
+        "job": "Dasturchi",
+        "email": "d4@gmail.com",
+        "pass": "pass",
+        "image": "image copy.png"
+    }
+]
